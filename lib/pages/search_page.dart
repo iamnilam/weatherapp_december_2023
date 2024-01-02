@@ -27,7 +27,7 @@ class _SearchPageState extends State<SearchPage> {
     }
 
     return Scaffold(
-      appBar: AppBar(centerTitle: true, title: const Text('Search')),
+      appBar: AppBar(centerTitle: true, title: const Text('Search city')),
       body: Form(
         key: _formKey,
         autovalidateMode: autovalidateMode,
