@@ -40,8 +40,8 @@ class _SearchPageState extends State<SearchPage> {
                 autofocus: true,
                 style: const TextStyle(fontSize: 18.0),
                 decoration: const InputDecoration(
-                  labelText: 'City name',
-                  hintText: 'search your city',
+                  labelText: 'Saher Naam',
+                  hintText: 'search any city',
                   prefixIcon: Icon(Icons.search),
                   border: OutlineInputBorder(),
                 ),
